@@ -9,5 +9,6 @@ class Employee {
     GENDER_NAME?:string;
     Gender?:number;
     Version?:number;
+    isChecked?:boolean;
 }
 export default Employee;
